@@ -10,6 +10,7 @@ GameForElders is a unique game designed specifically for elderly players. It fea
 - Warcraft D&D
 - Chinese Mythology RTS
 - 三國演義Ｄｏｔａ
+- Tissue boxing: A fun and engaging mini-game where players can practice their boxing skills using virtual tissues.
 
 ## Installation and Running
 To install and run the project, follow these steps:
